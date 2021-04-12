@@ -5,4 +5,4 @@ const Header = (props) => {
     </header>
 }
 
-export default Headergit
+export default Header
