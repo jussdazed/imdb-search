@@ -8,6 +8,7 @@
 
 - [React](https://reactjs.org/)
 - [Tailwind css](https://tailwindcss.com/)
+- [The Open Movie Database](http://www.omdbapi.com/)
 
 
 ### Установка
@@ -15,7 +16,7 @@
 
 Клонируем проект:
 ```sh
-git clone git@github.com:AndreyZ90/avia-bit.git
+git clone git@github.com:jussdazed/imdb-search.git
 ```
 
 В папке проекта производим установку всех зависимостей:
